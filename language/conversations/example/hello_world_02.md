@@ -14,5 +14,5 @@ Afternoon.
 Bye.
 * goodbye
 
-< Apologies, but this app needs to go back to school!
+< Sorry I don't know much yet', but this app needs to go back to school!
 * apology/untrained
